@@ -44,6 +44,7 @@ const HeaderContainer = styled.div`
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    background: rgb(200, 233, 255);
 `;
 
 const NavGroup = styled.div`

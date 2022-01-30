@@ -1,7 +1,7 @@
 {
     "styles": {
         "primary-color": "#1890ff",
-        "layout-header-background": "white",
+        "layout-header-background": "rgb(200, 233, 255)",
         "layout-header-color": "#434343",
         "layout-body-background": "white",
         "component-background": "white",
