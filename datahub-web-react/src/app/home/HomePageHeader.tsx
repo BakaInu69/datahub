@@ -31,7 +31,7 @@ const WelcomeText = styled(Typography.Text)`
 `;
 
 const styles = {
-    navBar: { padding: '24px' },
+    navBar: { padding: '24px', background: '#c8e9ff' },
     searchContainer: { width: '100%', marginTop: '40px' },
     logoImage: { width: 140 },
     searchBox: { width: '40vw', minWidth: 400, margin: '40px 0px', marginBottom: '12px' },
